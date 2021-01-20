@@ -1,0 +1,18 @@
+to compile and run the code, 
+open cmd on your OS, 
+go to the address of src folder, 
+then type javac Driver.java 
+to compile the file, Driver is the class that 
+main method is in it, after compilation in next line, 
+type java Driver and the 
+graphical interface of the game will open, 
+to start the game click on a button
+on grid in the frame, a player will randomly be selected to play,
+after each mouse click the random integer will be added to
+the current, then it will be the turn of next player, blue and yellow
+color are selected for the different players when
+they click on a square, if a player goes further 21, 
+the other player
+will win the game, and the mouse listener doesn't work any more,
+when you click on new game button, 
+everything will be reset for a new start.
